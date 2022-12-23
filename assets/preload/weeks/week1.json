@@ -1,18 +1,21 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["ready-or-not", "face", [146, 113, 253]],
+		["see-you", "face", [146, 113, 253]],
+		["im-ready", "face", [146, 113, 253]],
+		["maker", "face", [146, 113, 253]],
+		["f.u.n", "face", [146, 113, 253]]
 	],
 
+	"difficulties": "hard",
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "menu_stage",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "Glitch Mistery Port by : BorMay789",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
