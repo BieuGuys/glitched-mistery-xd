@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oswald.png"><SubTexture name="oswald idle0000" x="1667" y="0" width="833" height="851" frameX="-37" frameY="-67" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="oswald idle0001" x="833" y="0" width="834" height="881" frameX="-37" frameY="-38" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="oswald idle0002" x="0" y="0" width="833" height="894" frameX="-37" frameY="-24" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="oswald idle0003" x="0" y="0" width="833" height="894" frameX="-37" frameY="-24" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="oswald idle0004" x="0" y="0" width="833" height="894" frameX="-37" frameY="-24" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="oswald idle0005" x="0" y="0" width="833" height="894" frameX="-37" frameY="-24" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

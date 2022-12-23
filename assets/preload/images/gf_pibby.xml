@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf pibby.png"><SubTexture name="gf pibby idle0000" x="1357" y="0" width="679" height="934" frameX="-201" frameY="-53" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gf pibby idle0001" x="677" y="0" width="680" height="964" frameX="-209" frameY="-24" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gf pibby idle0002" x="0" y="0" width="677" height="981" frameX="-218" frameY="-6" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gf pibby idle0003" x="0" y="0" width="677" height="981" frameX="-218" frameY="-6" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gf pibby idle0004" x="0" y="0" width="677" height="981" frameX="-218" frameY="-6" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gf pibby idle0005" x="0" y="0" width="677" height="981" frameX="-218" frameY="-6" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

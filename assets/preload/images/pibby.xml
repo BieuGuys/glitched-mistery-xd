@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibby.png"><SubTexture name="pibby idle0000" x="1476" y="0" width="740" height="887" frameX="-135" frameY="-87" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="pibby idle0001" x="736" y="0" width="740" height="907" frameX="-144" frameY="-68" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="pibby idle0002" x="0" y="0" width="736" height="927" frameX="-149" frameY="-47" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="pibby idle0003" x="0" y="0" width="736" height="927" frameX="-149" frameY="-47" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="pibby idle0004" x="0" y="0" width="736" height="927" frameX="-149" frameY="-47" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="pibby idle0005" x="0" y="0" width="736" height="927" frameX="-149" frameY="-47" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

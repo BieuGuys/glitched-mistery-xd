@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lanzaguizantes.png"><SubTexture name="lanzaguizantes idle0000" x="0" y="793" width="861" height="770" frameX="-97" frameY="-230" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="lanzaguizantes idle0001" x="873" y="0" width="868" height="787" frameX="-95" frameY="-213" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="lanzaguizantes idle0002" x="0" y="0" width="873" height="793" frameX="-91" frameY="-207" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="lanzaguizantes idle0003" x="0" y="0" width="873" height="793" frameX="-91" frameY="-207" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="lanzaguizantes idle0004" x="0" y="0" width="873" height="793" frameX="-91" frameY="-207" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="lanzaguizantes idle0005" x="0" y="0" width="873" height="793" frameX="-91" frameY="-207" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>
