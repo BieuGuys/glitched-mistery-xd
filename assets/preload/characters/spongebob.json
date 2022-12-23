@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				140
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bob glitcheado idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "bob glitcheado left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				138
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bob glitcheado down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				236,
+				139
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bob glitcheado up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				239,
+				139
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "bob glitcheado right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob glitcheado",
+	"position": [
+		10,
+		70
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		30,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

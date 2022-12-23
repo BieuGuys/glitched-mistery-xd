@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				320,
+				142
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "patricio idle"
+		},
+		{
+			"offsets": [
+				316,
+				160
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "patricio left"
+		},
+		{
+			"offsets": [
+				287,
+				170
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "patricio down"
+		},
+		{
+			"offsets": [
+				287,
+				190
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "patricio up"
+		},
+		{
+			"offsets": [
+				328,
+				140
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "patricio right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/patricio",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		0,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
